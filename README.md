@@ -13,6 +13,6 @@ Use Suments API to setup automatically add a set of companies to analyze.
 The minimal information needed to read reports from analysis will be saved in "rel_companies_analysis.csv"
 
 # Resources
-.[Suments](https://www.suments.com)
-.[API documentation](https://developers.suments.com)
-.[API Add_company_method](https://developers.suments.com/#api-Acci%C3%B3n-AddCompany)
+⋅⋅⋅[Suments](https://www.suments.com)
+⋅⋅⋅[API documentation](https://developers.suments.com)
+⋅⋅⋅[API Add_company_method](https://developers.suments.com/#api-Acci%C3%B3n-AddCompany)
